@@ -12,8 +12,11 @@ div {
 
 ul {
   list-style-type: square;
-  background: #3399ff;
+  margin-left: 50px;
   padding: 20px;
+  font-family: "Verdana";
+  font-style: italic;
+  font-size: 30px;
 }
 
 p {
