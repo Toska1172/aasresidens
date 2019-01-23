@@ -6,6 +6,7 @@ h1 {
 }
 
 table {
+  margin: auto;
   border-collapse: collapse;
   text-align: center;
   width: 50%;
