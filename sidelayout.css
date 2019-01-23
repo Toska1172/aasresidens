@@ -12,6 +12,8 @@ div {
 
 ul {
   list-style-type: square;
+  background: #3399ff;
+  padding: 20px;
 }
 
 p {
