@@ -1,5 +1,5 @@
 h1 {
-	margin: auto;
+	text-align: center;
   font-family: "Verdana";
   margin-left: 100px;
   font-style: italic;
@@ -7,6 +7,7 @@ h1 {
 }
 
 table {
+	margin: auto;
   border-collapse: collapse;
   text-align: center;
   width: 50%;
