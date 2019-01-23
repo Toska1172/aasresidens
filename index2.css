@@ -18,7 +18,7 @@ p {
 }
 
 .nav {
-  background-color: blue; 
+  background-color: gray; 
   list-style-type: none;
   text-align: center;
   margin: 0;
@@ -29,6 +29,7 @@ p {
   display: inline-block;
   font-family: "Verdana";
   font-style: italic;
+  color: blue;
   font-size: 20px;
   padding: 20px;
 }
