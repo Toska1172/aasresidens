@@ -5,8 +5,9 @@ h1 {
   font-size: 40 px;
 }
 
-div {
-  background-color: lightblue;
+
+body {
+	background-color: #b3cccc;
 }
 
 ul {
