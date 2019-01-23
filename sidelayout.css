@@ -1,4 +1,5 @@
 h1 {
+	margin: auto;
   font-family: "Verdana";
   margin-left: 100px;
   font-style: italic;
@@ -6,7 +7,6 @@ h1 {
 }
 
 table {
-  margin: auto;
   border-collapse: collapse;
   text-align: center;
   width: 50%;
@@ -20,7 +20,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 
 div {
-	
   margin: auto;
   padding: 20px;
   font-family: "Verdana";
