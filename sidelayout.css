@@ -7,6 +7,7 @@ h1 {
 
 table {
   border-collapse: collapse;
+  text-align: center;
   width: 50%;
 }
 
@@ -16,9 +17,6 @@ th, td {
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
 
-table {
-	text-align: center;
-}
 
 div {
   margin-left: 100px;
