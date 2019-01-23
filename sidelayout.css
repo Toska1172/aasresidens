@@ -1,6 +1,6 @@
 h1 {
   font-family: "Verdana";
-  margin-left: 40px;
+  margin-left: 100px;
   font-style: italic;
   font-size: 40 px;
 }
@@ -12,7 +12,7 @@ body {
 
 ul {
   list-style-type: square;
-  margin-left: 50px;
+  margin-left: 100px;
   padding: 20px;
   font-family: "Verdana";
   font-size: 20px;
